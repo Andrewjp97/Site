@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Space Platypus: Home</title>
+		<link rel="stylesheet" type="text/css" href="spacePlatypus.css">
 	</head>
 
 	<body>
